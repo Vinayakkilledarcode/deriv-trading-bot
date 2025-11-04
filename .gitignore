@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+env/
+venv/
+ENV/
+*.env
+
+# Playwright
+playwright-report/
+test-results/
+screenshots/
+playwright/.cache/
+
+# Node.js
+node_modules/
+dist/
+build/
+.next/
+coverage/
+
+# VS Code
+.vscode/
+.vscode-test/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Cache
+.cache/
